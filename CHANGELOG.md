@@ -11,6 +11,7 @@
 ### 🎨 - Designendringer
 
 ## Neste versjon
+## Versjon 2024.05.02
 
 ## Versjon 2024.01.05
 - ⚡**Arrangement**. Et arrangement vil nå være markert og sortert etter kategori i tillegg til ansvarlig gruppe.
